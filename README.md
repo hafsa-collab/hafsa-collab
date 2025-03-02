@@ -22,9 +22,11 @@ I'm a **Computer Science undergraduate** passionate about building efficient sys
 
 ---
 
-## 🌟 Featured Project: OS Project Repository 
-**On-demand home services portal](https://github.com/hafsa-collab/Web-Development-)** 
+## 🌟 Featured Project:
+### OS Project Repository 
 🔗 **[Multi Threaded String Printer](https://github.com/hafsa-collab/OS-projects-)**  
+### Web-Development Project Repository 
+**[On-demand home services portal](https://github.com/hafsa-collab/Web-Development-)** 
 
 ---
 
