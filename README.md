@@ -23,7 +23,7 @@ I'm a **Computer Science undergraduate** passionate about building efficient sys
 ---
 
 ## 🌟 Featured Project: OS Project Repository  
-🔗 **[Multi-Threaded Round-Robin String Printer](https://github.com/hafsa-collab/os-project)**  
+🔗 **[Multi Threaded String Printer](https://github.com/hafsa-collab/os-project)**  
 - **Tech Stack**: C++, pthreads, mutex locks, condition variables  
 - **Key Features**:  
   - Implements round-robin scheduling for thread synchronization.  
