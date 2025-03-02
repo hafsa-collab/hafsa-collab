@@ -22,13 +22,9 @@ I'm a **Computer Science undergraduate** passionate about building efficient sys
 
 ---
 
-## 🌟 Featured Project: OS Project Repository  
+## 🌟 Featured Project: OS Project Repository 
+**On-demand home services portal](https://github.com/hafsa-collab/Web-Development-)** 
 🔗 **[Multi Threaded String Printer](https://github.com/hafsa-collab/OS-projects-)**  
-- **Tech Stack**: C++, pthreads, mutex locks, condition variables  
-- **Key Features**:  
-  - Implements round-robin scheduling for thread synchronization.  
-  - Demonstrates OS concepts like resource allocation and deadlock prevention.  
-- **Why It Matters**: Simulates real-world CPU scheduling in a simplified manner.  
 
 ---
 
