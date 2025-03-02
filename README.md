@@ -41,7 +41,7 @@ I'm a **Computer Science undergraduate** passionate about building efficient sys
 
 ## 📫 Let's Connect!  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://www.instagram.com/invites/contact/?igsh=1o42ffw39h24w&utm_content=hrx8sat)  
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:yourbugsneon1@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:bugsneon1@gmail.com)  
 
 ---
 
